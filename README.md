@@ -14,4 +14,4 @@ README.md
 
 ### Credits
 Thanks Udacity for the great project!
-
+I learned a lot from course on git.
