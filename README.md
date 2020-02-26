@@ -5,7 +5,7 @@ This project was created on 26 Feb 2020
 pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+A Bikeshare system simulator
 
 ### Files used
 Include the files used
