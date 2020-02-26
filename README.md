@@ -8,10 +8,10 @@ pdsnd_github
 A Bikeshare system simulator
 
 ### Files used
-.gitignore
-bikeshare.py
+.gitignore  
+bikeshare.py  
 README.md
 
 ### Credits
-Thanks Udacity for the great project!
-I learned a lot from course on git.
+Thanks Udacity for the great project!  
+I learned a lot from the git course.
